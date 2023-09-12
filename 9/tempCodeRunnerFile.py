@@ -1,2 +1,1 @@
-
-# print(programming_dictionary)
+clear()
