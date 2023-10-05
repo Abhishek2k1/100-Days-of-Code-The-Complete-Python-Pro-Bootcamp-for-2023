@@ -1,0 +1,1 @@
+print("jani na ki koirchi")
